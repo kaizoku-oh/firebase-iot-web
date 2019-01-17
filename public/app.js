@@ -1,12 +1,12 @@
 (function() {
     // Set the configuration for your app
     var config = {
-        apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        authDomain: "XXXXXXXXX.firebaseapp.com",
-        databaseURL: "https://XXXXXXXXXX.firebaseio.com",
-        projectId: "XXXXXXXX",
-        storageBucket: "XXXXXXXX.appspot.com",
-        messagingSenderId: "XXXXXXXXX"
+        apiKey: "AIzaSyAnXLZmtPxHv3NU8riaIWbiaF3MvdctN6g",
+        authDomain: "medium-iot-project.firebaseapp.com",
+        databaseURL: "https://medium-iot-project.firebaseio.com",
+        projectId: "medium-iot-project",
+        storageBucket: "medium-iot-project.appspot.com",
+        messagingSenderId: "105248561470"
     };
 
     firebase.initializeApp(config);
